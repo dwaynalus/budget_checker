@@ -1,2 +1,2 @@
 # budget_checker
-Google Ads Budget Checker With Extra Functionality
+Google Ads Budget Checker Script With Extra Functionality
